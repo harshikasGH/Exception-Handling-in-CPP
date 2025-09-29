@@ -77,11 +77,8 @@ Applications of Exception Handling
   - Input validation.  
   - Banking/ATM systems.  
 
-Conclusion
-- Thus we learnt about the exception handling in C++
 
-## 🧠 Conclusion  
-
+Conclusion  
 - Exception handling in C++ provides a structured way to manage runtime errors.  
 - The keywords **try, throw, and catch** are used to detect and handle exceptions.  
 - It ensures that programs can **continue execution gracefully** even when unexpected errors occur.  
